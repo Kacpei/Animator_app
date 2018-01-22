@@ -16,7 +16,7 @@
             android:layout_height="274dp">
 
             <Button
-                android:id="@+id/button1"
+                android:id="@+id/baloons"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"

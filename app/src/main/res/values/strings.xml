@@ -1,3 +1,8 @@
-<resources>
-    <string name="app_name">Animator_app</string>
+<resources xmlns:android="http://schemas.android.com/tools">
+
+    <string
+        android:id="@+id/bar"
+
+        name="app_name">Animator</string>
+    <item name="bar" type="id">bar</item>
 </resources>

@@ -8,4 +8,11 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="DificultyLevelButtonColors">
+        <item name="android:background"> #FFFF00</item>
+
+
+    </style>
+
+
 </resources>
